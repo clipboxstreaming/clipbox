@@ -7,7 +7,7 @@
 Browse movies and shows, play them in a polished player, and cast to your TV - all in one place, without the clutter.
 
 [![Download](https://img.shields.io/badge/Download-Latest%20APK-e50914?style=for-the-badge&logo=android&logoColor=white)](https://github.com/clipboxstreaming/releases/releases/latest)
-[![Version](https://img.shields.io/badge/version-1.6.1-blue?style=for-the-badge)](https://github.com/clipboxstreaming/releases/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.6.2-blue?style=for-the-badge)](https://github.com/clipboxstreaming/releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Android-8.0%2B-3ddc84?style=for-the-badge&logo=android&logoColor=white)](#requirements)
 [![Android TV](https://img.shields.io/badge/Android%20TV%20%26%20Fire%20TV-supported-3ddc84?style=for-the-badge&logo=androidtv&logoColor=white)](#-android-tv--fire-tv)
 
